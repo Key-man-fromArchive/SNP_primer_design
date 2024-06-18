@@ -128,5 +128,3 @@ This project is licensed under the MIT License.
 For any questions or issues, please contact [Kibeom park] at [ceo@invirutsech.com].
 
 ---
-
-Feel free to modify the README as per your specific needs and details.
