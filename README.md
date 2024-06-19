@@ -114,14 +114,17 @@ The script outputs designed primers, including their sequences, melting temperat
 ```text
 Designed Primers:
 >AsqF_example_sequence_A_ 59.3'C
-ATGCGTCCGCTAG
+ATGCGTCCGC*(T)AG
+>AsqF_example_sequence_T_ 59.3'C
+ATGCGTCCGC*(T)AT
+*() is intentional mismatch 
 >Rev_primer_example_sequence_ 62.1'C
 GCTAGCTAGCTAG
 ```
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the BSD License.
 
 ## Contact
 
